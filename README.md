@@ -23,10 +23,11 @@ This is a simple desktop application that calculates the geographical distance b
 
 ## Usage
 
-1. Run `City_Distance_Calculator_script.exe`.
-2. Enter the names of the first and the second cities in the respective text boxes.
-3. Click the "Calculate Distance" button.
-4. The distance between the two cities will be displayed below the button.
+1.Download "dist" folder.
+2. Run `City_Distance_Calculator_script.exe`.
+3. Enter the names of the first and the second cities in the respective text boxes.
+4. Click the "Calculate Distance" button.
+5. The distance between the two cities will be displayed below the button.
 
 ## Contributing
 
