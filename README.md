@@ -28,14 +28,3 @@ This is a simple desktop application that calculates the geographical distance b
 3. Click the "Calculate Distance" button.
 4. The distance between the two cities will be displayed below the button.
 
-## Contributing
-
-Contributions are welcome. Feel free to open a pull request or branch from this project.
-
-## License
-
-MIT License. See `LICENSE` for more information.
-
-## Screenshots
-![City distance calculater screenshot]([https://github.com/EmmettDemirhan/City_Distance/assets/100542582/6d28e380-2c9d-4b07-8d81-aa50d27f2bcd](https://github.com/EmmettDemirhan/City_Distance_Calculator/blob/main/City%20distance%20calculater%20screenshot.png)https://github.com/EmmettDemirhan/City_Distance_Calculator/blob/main/City%20distance%20calculater%20screenshot.png)
-
