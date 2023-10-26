@@ -37,5 +37,5 @@ Contributions are welcome. Feel free to open a pull request or branch from this 
 MIT License. See `LICENSE` for more information.
 
 ## Screenshots
-![City distance calculater screenshot](https://github.com/EmmettDemirhan/City_Distance/assets/100542582/6d28e380-2c9d-4b07-8d81-aa50d27f2bcd)
+![City distance calculater screenshot]([https://github.com/EmmettDemirhan/City_Distance/assets/100542582/6d28e380-2c9d-4b07-8d81-aa50d27f2bcd](https://github.com/EmmettDemirhan/City_Distance_Calculator/blob/main/City%20distance%20calculater%20screenshot.png)https://github.com/EmmettDemirhan/City_Distance_Calculator/blob/main/City%20distance%20calculater%20screenshot.png)
 
